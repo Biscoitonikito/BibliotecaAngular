@@ -15,4 +15,9 @@ https://github.com/danielson150/bibliotecaAngular/
 
 ![biblioteca](https://github.com/Biscoitonikito/BibliotecaAngular/blob/master/screenshot/Captura%20de%20tela%20de%202020-01-15%2012-02-01.png)
 
+![biblioteca](https://github.com/Biscoitonikito/BibliotecaAngular/blob/master/screenshot/Captura%20de%20tela%20de%202020-01-15%2014-28-48.png)
 
+
+![biblioteca](https://github.com/Biscoitonikito/BibliotecaAngular/blob/master/screenshot/Captura%20de%20tela%20de%202020-01-15%2014-28-55.png)
+
+![biblioteca](https://github.com/Biscoitonikito/BibliotecaAngular/blob/master/screenshot/Captura%20de%20tela%20de%202020-01-15%2014-29-01.png)
